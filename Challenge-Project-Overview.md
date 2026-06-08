@@ -31,7 +31,7 @@
 **Overall Recommendation:** REVISE
 
 **Advisor Feedback Draft:**
-The project holds potential due to its real-world application, fostering relevant skills in time series analysis and machine learning. However, recommend addressing the complexity by simplifying the LSTM model or introducing a more guided preprocessing framework. Ensure clear deliverables to help track progress against metrics without overwhelming the students. Encourage engagement with the GROW dataset ahead of the main project to identify challenges early.
+The project holds potential due to its real-world application, fostering relevant skills in time series analysis and machine learning. However, recommend addressing the complexity by introducing a more guided preprocessing framework (or simplifying the LSTM model). Ensure clear deliverables to help track progress against metrics without overwhelming the students. Encourage engagement with the GROW dataset ahead of the main project to identify challenges early.
 
 ---
 # Native Garden Design using AI
